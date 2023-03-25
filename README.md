@@ -4,9 +4,13 @@ Entrega del proyecto fase 1
 
 # INTEGRANTES:
 HG231549	Hernández González,	Carlos Alejandro.
+
 PB231586	Ponce Barahona,	Jose Wilfredo.
+
 RD142159	Rodríguez,	Lourdes.
+
 RC231562	Rosa Castillo,	Moisés.
+
 GV230511	González Villalta,	Bryan Manuel.
 
 # LINKS:
